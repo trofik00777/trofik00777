@@ -5,8 +5,12 @@ Student of bachelor CT ITMO University
 ## :wrench: Skills: 
 
 ![](https://img.shields.io/badge/-Python-green)
-![](https://img.shields.io/badge/-Java-orange)
 ![](https://img.shields.io/badge/-C%2FC%2B%2B-blueviolet)
+![](https://img.shields.io/badge/-Java-orange)
+
+## [CV](https://github.com/trofik00777/CV)
+
+
 
 ## Social
 
